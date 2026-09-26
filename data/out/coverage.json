@@ -1,0 +1,68 @@
+{
+  "mode": "live",
+  "generated_at": "2026-09-26T14:48:42+09:00",
+  "n_candidates": 139,
+  "parse_status": {
+    "ok": 119,
+    "fail": 14,
+    "partial": 6
+  },
+  "parse_ok_rate": 0.856,
+  "by_category": {
+    "카페": {
+      "ok": 32,
+      "partial": 1
+    },
+    "문화시설": {
+      "ok": 5
+    },
+    "체험": {
+      "fail": 7,
+      "ok": 2
+    },
+    "음식점": {
+      "ok": 68,
+      "partial": 2,
+      "fail": 1
+    },
+    "쇼핑": {
+      "fail": 1,
+      "ok": 1,
+      "partial": 1
+    },
+    "관광지": {
+      "ok": 11,
+      "fail": 5,
+      "partial": 2
+    }
+  },
+  "travel_source": {
+    "estimate": 139
+  },
+  "walkable": 5,
+  "dwell_source": {
+    "default": 139
+  },
+  "top_issues": [
+    [
+      "usetime 비어 있음",
+      9
+    ],
+    [
+      "해석 불가 문구",
+      8
+    ],
+    [
+      "restdate 비어 있음",
+      7
+    ],
+    [
+      "쉬는 날 해석 불가",
+      5
+    ],
+    [
+      "영업시간이 아닌 구역",
+      2
+    ]
+  ]
+}

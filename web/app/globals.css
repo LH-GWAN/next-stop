@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f6f7f4;
+  --surface: #ffffff;
+  --ink: #1b2420;
+  --muted: #5f6b66;
+  --line: #e2e6e1;
+  --accent: #1f6f5c;
+  --accent-soft: #e3f1ec;
+  --on-accent: #ffffff;
+  --go: #2f7fb8;
+  --stay: #1f6f5c;
+  --back: #7aa7c9;
+  --slack: #d9dfdb;
+  --warn: #9a5b00;
+  --warn-soft: #fdf1dc;
+  --bad: #a33a2b;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-on-accent: var(--on-accent);
+  --color-go: var(--go);
+  --color-stay: var(--stay);
+  --color-back: var(--back);
+  --color-slack: var(--slack);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-bad: var(--bad);
+  --font-sans: var(--font-noto), "Apple SD Gothic Neo", system-ui, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111614;
+    --surface: #1a211e;
+    --ink: #e8ede9;
+    --muted: #9aa7a1;
+    --line: #2b3531;
+    --accent: #5cc3a5;
+    --accent-soft: #1d3a31;
+    --on-accent: #0c1f19;
+    --go: #6aaee0;
+    --stay: #5cc3a5;
+    --back: #4d7c9e;
+    --slack: #34403b;
+    --warn: #f0b35a;
+    --warn-soft: #3a2d17;
+    --bad: #f08a7a;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  word-break: keep-all;
+}

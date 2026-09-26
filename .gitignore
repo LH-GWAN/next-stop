@@ -1,0 +1,11 @@
+.env
+.DS_Store
+data/.venv/
+__pycache__/
+.pytest_cache/
+data/raw/tourapi/
+data/raw/tmap/
+
+# 공개 저장소 제외: 응모 서류 메모, 데이터랩 원자료(재배포 약관 확인 전)
+docs/서식4_반영문구.md
+data/raw/datalab/

@@ -1,0 +1,325 @@
+{
+  "source": "sample",
+  "origin": {
+    "id": "dumulmeori",
+    "name": "두물머리",
+    "tourapi_contentid": null,
+    "lat": 37.5345,
+    "lng": 127.3185,
+    "addr": "경기도 양평군 양서면 (대략 좌표)",
+    "radius_m": {
+      "walk": 1500,
+      "car": 10000
+    }
+  },
+  "places": [
+    {
+      "contentid": "sample-01",
+      "contenttypeid": 39,
+      "title": "샘플 강변 카페",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.536746,
+      "lng": 127.320539,
+      "dist_m": 308,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020900",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "10:00~21:00 (라스트오더 20:30)",
+      "restdate": "연중무휴",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-02",
+      "contenttypeid": 39,
+      "title": "샘플 연잎 찻집",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.531625,
+      "lng": 127.323258,
+      "dist_m": 528,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020900",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "11:00~19:00",
+      "restdate": "매주 화요일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-03",
+      "contenttypeid": 39,
+      "title": "샘플 국수집",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.538812,
+      "lng": 127.315555,
+      "dist_m": 546,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020100",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "11:00~20:00 (브레이크타임 15:00~16:30)",
+      "restdate": "매주 월요일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-04",
+      "contenttypeid": 39,
+      "title": "샘플 한정식",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.557856,
+      "lng": 127.353617,
+      "dist_m": 4046,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020100",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "11:30~21:00<br>L.O 20:00",
+      "restdate": "명절 당일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-05",
+      "contenttypeid": 38,
+      "title": "샘플 로컬푸드 직매장",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.540788,
+      "lng": 127.324391,
+      "dist_m": 872,
+      "cat1": "A04",
+      "cat2": "A0401",
+      "cat3": "A04010200",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "09:00~19:00",
+      "restdate": "설날 및 추석 당일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-06",
+      "contenttypeid": 38,
+      "title": "샘플 공예 소품점",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.533153,
+      "lng": 127.32541,
+      "dist_m": 628,
+      "cat1": "A04",
+      "cat2": "A0401",
+      "cat3": "A04010600",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "평일 11:00~18:00 / 주말 및 공휴일 10:00~19:00",
+      "restdate": "매주 수요일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-07",
+      "contenttypeid": 12,
+      "title": "샘플 도자기 체험공방",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.542585,
+      "lng": 127.31057,
+      "dist_m": 1140,
+      "cat1": "A02",
+      "cat2": "A0203",
+      "cat3": "A02030400",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "10:00~18:00 (입장마감 17:00)",
+      "restdate": "매주 월요일 (공휴일인 경우 다음 날 휴무)",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-08",
+      "contenttypeid": 28,
+      "title": "샘플 천연염색 체험장",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.565043,
+      "lng": 127.294711,
+      "dist_m": 3996,
+      "cat1": "A03",
+      "cat2": "A0302",
+      "cat3": "A03021700",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "하절기(3월~10월) 10:00~18:00<br>동절기(11월~2월) 10:00~17:00",
+      "restdate": "매주 화요일, 1월 1일",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-09",
+      "contenttypeid": 14,
+      "title": "샘플 작은 미술관",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.544381,
+      "lng": 127.321898,
+      "dist_m": 1140,
+      "cat1": "A02",
+      "cat2": "A0206",
+      "cat3": "A02060500",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "10:00~18:00<br>※ 관람종료 1시간 전 입장마감",
+      "restdate": "매주 월요일, 1월 1일, 설날 및 추석 당일",
+      "spendtime": "약 40분",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-10",
+      "contenttypeid": 14,
+      "title": "샘플 향토 전시관",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.581212,
+      "lng": 127.372875,
+      "dist_m": 7077,
+      "cat1": "A02",
+      "cat2": "A0206",
+      "cat3": "A02060100",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "09:00~18:00",
+      "restdate": "매주 월요일",
+      "spendtime": "1시간",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-11",
+      "contenttypeid": 12,
+      "title": "샘플 강변 산책 정원",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.52911,
+      "lng": 127.314535,
+      "dist_m": 695,
+      "cat1": "A01",
+      "cat2": "A0101",
+      "cat3": "A01010500",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "상시 개방",
+      "restdate": "연중무휴",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-12",
+      "contenttypeid": 12,
+      "title": "샘플 전망 쉼터",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.547076,
+      "lng": 127.301508,
+      "dist_m": 2052,
+      "cat1": "A01",
+      "cat2": "A0101",
+      "cat3": "A01010400",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "09:00~18:00",
+      "restdate": "",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-13",
+      "contenttypeid": 39,
+      "title": "샘플 빵집",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.537914,
+      "lng": 127.31748,
+      "dist_m": 391,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020900",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "전화문의",
+      "restdate": "부정기",
+      "spendtime": "",
+      "intro_keys": []
+    },
+    {
+      "contentid": "sample-14",
+      "contenttypeid": 39,
+      "title": "샘플 수제 맥주집",
+      "addr": "가상 주소 (샘플 데이터)",
+      "tel": "",
+      "lat": 37.571331,
+      "lng": 127.347953,
+      "dist_m": 4855,
+      "cat1": "A05",
+      "cat2": "A0502",
+      "cat3": "A05020800",
+      "lcls": [
+        "",
+        "",
+        ""
+      ],
+      "usetime": "17:00~익일 01:00",
+      "restdate": "매주 일요일",
+      "spendtime": "",
+      "intro_keys": []
+    }
+  ]
+}

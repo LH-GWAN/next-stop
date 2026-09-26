@@ -1,0 +1,16 @@
+# 출발 관광지. 좌표는 대략값이며, fetch_tourapi.py가 searchKeyword2로 TourAPI 좌표·contentid를 찾아 out/origin.json에 저장한다.
+# 선정 근거: 데이터랩 양평군 외지인 인기관광지 1위, 중심관광지 1위
+default: dumulmeori
+origins:
+  dumulmeori:
+    name: 두물머리
+    keyword: 두물머리
+    tourapi_contentid: "128918"  # TourAPI '양평 두물머리'. 키워드 검색 첫 결과는 '두물머리생태학교'라 고정한다
+    lat: 37.5345
+    lng: 127.3185
+    radius_m:
+      walk: 1500
+      car: 10000
+# 확장 예시(데이터랩 양평군 중심관광지 2위 용문사, 5위 세미원). MVP에서는 쓰지 않는다.
+#  semiwon: {name: 세미원, keyword: 세미원}
+#  yongmunsa: {name: 용문사, keyword: 용문사}
